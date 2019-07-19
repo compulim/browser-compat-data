@@ -548,13 +548,7 @@
               "version_added": null
             },
             "firefox": {
-              "version_added": "46",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "gfx.offscreencanvas.enabled"
-                }
-              ]
+              "version_added": false
             },
             "firefox_android": {
               "version_added": "46",
